@@ -1,0 +1,105 @@
+{
+  "filterTypes": ["립", "블러셔"],
+  "filterDatas": {
+    "립": [
+      {
+        "type": "슈슈",
+        "href": "test",
+        "colorName": "체리 핑크",
+        "filterImg": "lip.png",
+        "company": "체리 핑크",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "ff69b4",
+        "order": 3,
+        "name": "립"
+      },
+      {
+        "type": "슈슈",
+        "href": "test",
+        "colorName": "울트라 퍼플",
+        "filterImg": "lip.png",
+        "company": "울트라 퍼플",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "ee82ee",
+        "order": 4,
+        "name": "립"
+      },
+      {
+        "type": "슈슈 라이트",
+        "href": "test",
+        "colorName": "핫 핑크",
+        "filterImg": "lip.png",
+        "company": "핫 핑크",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "fd386e",
+        "order": 1,
+        "name": "립"
+      },
+      {
+        "type": "슈슈 라이트",
+        "href": "test",
+        "colorName": "쿨 레드",
+        "filterImg": "lip.png",
+        "company": "쿨 레드",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "fb4343",
+        "order": 2,
+        "name": "립"
+      }
+    ],
+    "블러셔": [
+      {
+        "type": "슈슈",
+        "href": "test",
+        "colorName": "레드 오렌지",
+        "filterImg": "blush.png",
+        "company": "레드 오렌지",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "ff4500",
+        "order": 1,
+        "name": "블러셔"
+      },
+      {
+        "type": "슈슈",
+        "href": "test",
+        "colorName": "허니 핑크",
+        "filterImg": "blush.png",
+        "company": "허니 핑크",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "ff6b6e",
+        "order": 2,
+        "name": "블러셔"
+      },
+      {
+        "type": "슈슈 라이트",
+        "href": "test",
+        "colorName": "피치 핑크",
+        "filterImg": "blush.png",
+        "company": "피치 핑크",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "fd9796",
+        "order": 3,
+        "name": "블러셔"
+      },
+      {
+        "type": "슈슈 라이트",
+        "href": "test",
+        "colorName": "베리 핑크",
+        "filterImg": "blush.png",
+        "company": "베리 핑크",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "ef6e9f",
+        "order": 4,
+        "name": "블러셔"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "filterTypes": ["립", "블러셔"],
+  "filterDatas": {
+    "립": [
+      {
+        "type": "쎄씨",
+        "href": "test",
+        "colorName": "코랄 핑크",
+        "filterImg": "lip.png",
+        "company": "코랄 핑크",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "f0525c",
+        "order": 1,
+        "name": "립"
+      },
+      {
+        "type": "쎄씨",
+        "href": "test",
+        "colorName": "베이비 핑크",
+        "filterImg": "lip.png",
+        "company": "베이비 핑크",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "fd9dab",
+        "order": 4,
+        "name": "립"
+      },
+      {
+        "type": "쎄씨 딥",
+        "href": "test",
+        "colorName": "핫핑크",
+        "filterImg": "lip.png",
+        "company": "핫핑크",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "f05480",
+        "order": 2,
+        "name": "립"
+      },
+      {
+        "type": "쎄씨 딥",
+        "href": "test",
+        "colorName": "루비 핑크",
+        "filterImg": "lip.png",
+        "company": "루비 핑크",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "c02028",
+        "order": 3,
+        "name": "립"
+      }
+    ],
+    "블러셔": [
+      {
+        "type": "쎄씨",
+        "href": "test",
+        "colorName": "튜튜 핑크",
+        "filterImg": "blush.png",
+        "company": "튜튜 핑크",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "FFC0CB",
+        "order": 1,
+        "name": "블러셔"
+      },
+      {
+        "type": "쎄씨",
+        "href": "test",
+        "colorName": "베이지",
+        "filterImg": "blush.png",
+        "company": "베이지",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "f2bfb3",
+        "order": 2,
+        "name": "블러셔"
+      },
+      {
+        "type": "쎄씨 딥",
+        "href": "test",
+        "colorName": "피치",
+        "filterImg": "blush.png",
+        "company": "피치",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "fb9883",
+        "order": 3,
+        "name": "블러셔"
+      },
+      {
+        "type": "쎄씨 딥",
+        "href": "test",
+        "colorName": "로지 핑크",
+        "filterImg": "blush.png",
+        "company": "로지 핑크",
+        "productType": "cosmetic",
+        "productImg": "test",
+        "rgb": "fd9590",
+        "order": 4,
+        "name": "블러셔"
+      }
+    ]
+  }
+}

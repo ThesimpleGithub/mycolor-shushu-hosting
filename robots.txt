@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://mycolor.kr/sitemap.xml
